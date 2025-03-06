@@ -17,5 +17,8 @@ go run main.go loan.go
 go test
 ```
 
-Thanks
+## Example Program
+![My Images](images/images.png)
+
+Thanks  
 -Adhika Aryantio-
